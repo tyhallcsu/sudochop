@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Sudo Konsole!!!”
+echo "Sudo Konsole!!!"
 
 cd konsole
 xcodebuild
